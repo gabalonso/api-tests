@@ -1,0 +1,13 @@
+{
+    "response1": {
+        "status": false,
+        "errors": [
+            "Error"
+        ]
+    },
+
+    "response2": {
+        "status": false,
+        "string": "string"
+    }
+}
